@@ -8,4 +8,5 @@ Backend developer passionate about Node.js. Welcome to my GitHub profile!
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Nowihy]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/khaled-elnowihy-ab6b92241/)https://www.linkedin.com/in/khaled-elnowihy-ab6b92241/)
+- LinkedIn: (https://www.linkedin.com/in/khaled-elnowihy-ab6b92241/)
+
