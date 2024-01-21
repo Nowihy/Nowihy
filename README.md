@@ -6,17 +6,16 @@
 
 ## 🚀 Languages and Tools
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+<img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" />
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+<img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" />
+<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" />
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+<img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" />
 
 ## 📫 Let's Connect
 
