@@ -6,20 +6,16 @@
 
 ## 🚀 Languages and Tools
 
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" style="margin: 0 10px;" />
-<img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" style="margin: 0 10px;" />
-<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" style="margin: 0 10px;" />
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="margin: 0 10px;" />
-<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="margin: 0 10px;" />
-<img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" style="margin: 0 10px;" />
-<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" style="margin: 0 10px;" />
-<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" style="margin: 0 10px;" />
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" style="margin: 0 10px;" />
-<img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" style="margin: 0 10px;" />
-
-## 📊 Most Used Language Survey
-
-<iframe src="https://docs.google.com/forms/d/e/your-form-id/viewform?embedded=true" width="640" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+<img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" />
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+<img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" />
+<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" />
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+<img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" />
 
 ## 📫 Let's Connect
 
