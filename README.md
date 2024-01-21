@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋 I'm Khaled El-Nowihy</h2>
+<h2 align="center">Hi👋 I'm Khaled El-Nowihy</h2>
 <p align="center">Backend developer passionate about Node.js. Welcome to my GitHub profile!</p>
 
 1. 🌱 I’m currently learning React.js
@@ -19,6 +19,6 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-## 📫 Let's Connect
+## 📫 Connect with me:
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="LinkedIn" />](https://www.linkedin.com/in/khaled-elnowihy-ab6b92241/)
