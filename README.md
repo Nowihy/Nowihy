@@ -6,17 +6,17 @@
 
 ## 🚀 Languages and Tools
 
-<img src="https://img.icons8.com/ios-filled/50/000000/nodejs.png" alt="Node.js" />
-<img src="https://img.icons8.com/ios-filled/50/000000/express.png" alt="Express.js" />
-<img src="https://img.icons8.com/ios-filled/50/000000/mongodb.png" alt="MongoDB" />
-<img src="https://img.icons8.com/ios-filled/50/000000/javascript.png" alt="JavaScript" />
-<img src="https://img.icons8.com/ios-filled/50/000000/git.png" alt="Git" />
-<img src="https://img.icons8.com/dusk/64/000000/postman-api.png" alt="Postman" />
-<img src="https://img.icons8.com/ios-filled/50/000000/react-native.png" alt="React.js" />
-<img src="https://img.icons8.com/ios-filled/50/000000/html-5.png" alt="HTML5" />
-<img src="https://img.icons8.com/ios-filled/50/000000/css3.png" alt="CSS3" />
-<img src="https://img.icons8.com/dusk/64/000000/dart.png" alt="Dart" />
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" style="margin: 0 10px;" />
+<img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" style="margin: 0 10px;" />
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" style="margin: 0 10px;" />
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="margin: 0 10px;" />
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="margin: 0 10px;" />
+<img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" style="margin: 0 10px;" />
+<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" style="margin: 0 10px;" />
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" style="margin: 0 10px;" />
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" style="margin: 0 10px;" />
+<img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" style="margin: 0 10px;" />
 
 ## 📫 Let's Connect
 
-[<img src="https://img.icons8.com/ios-filled/50/000000/linkedin-circled.png" alt="LinkedIn" />](https://www.linkedin.com/in/khaled-elnowihy-ab6b92241/)
+[<img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="LinkedIn" />](https://www.linkedin.com/in/khaled-elnowihy-ab6b92241/)
